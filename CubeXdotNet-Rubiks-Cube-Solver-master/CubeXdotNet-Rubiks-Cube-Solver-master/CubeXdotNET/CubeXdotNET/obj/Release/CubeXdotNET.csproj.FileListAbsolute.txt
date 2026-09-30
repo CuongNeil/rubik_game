@@ -1,0 +1,6 @@
+E:\Download\CubeXdotNet-Rubiks-Cube-Solver-master\CubeXdotNet-Rubiks-Cube-Solver-master\CubeXdotNET\CubeXdotNET\bin\Release\CubeXdotNET.dll
+E:\Download\CubeXdotNet-Rubiks-Cube-Solver-master\CubeXdotNet-Rubiks-Cube-Solver-master\CubeXdotNET\CubeXdotNET\bin\Release\CubeXdotNET.pdb
+E:\Download\CubeXdotNet-Rubiks-Cube-Solver-master\CubeXdotNet-Rubiks-Cube-Solver-master\CubeXdotNET\CubeXdotNET\obj\Release\CubeXdotNET.csproj.AssemblyReference.cache
+E:\Download\CubeXdotNet-Rubiks-Cube-Solver-master\CubeXdotNet-Rubiks-Cube-Solver-master\CubeXdotNET\CubeXdotNET\obj\Release\CubeXdotNET.csproj.CoreCompileInputs.cache
+E:\Download\CubeXdotNet-Rubiks-Cube-Solver-master\CubeXdotNet-Rubiks-Cube-Solver-master\CubeXdotNET\CubeXdotNET\obj\Release\CubeXdotNET.dll
+E:\Download\CubeXdotNet-Rubiks-Cube-Solver-master\CubeXdotNet-Rubiks-Cube-Solver-master\CubeXdotNET\CubeXdotNET\obj\Release\CubeXdotNET.pdb
